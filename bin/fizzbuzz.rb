@@ -7,6 +7,8 @@
 		print("Fizz\n")
 	elsif (i%5==0)
 		print("Buzz\n")
+	elsif (i%7==0)
+		print("git\n")
 	else
 		p i
 	end
